@@ -1,4 +1,4 @@
-#                                                                                👋 Hi, there! 😃
+# <p align="center">👋 Hi, there! 😃
 
 
 I’m Venkata Sowjanya Koka, a Data Analytics and Information Systems graduate student.
@@ -14,16 +14,31 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 
 _I also believe in the ideology **"Future belongs to the ones who are not afraid to try it, explore it and question it"** which enables me to focus on not only continuous improvement, but also innovation._
 
-💻 Graduate Research Assistant - Texas State University
+#
 
-👀 I’m interested in Data Science
-
-🌱 I’m currently learning about Deep Learning and Cloud Computing
-
-🧐 Curious of Blockchain Technology and Artificial Intelligence
+**At present I'm,**
 
 
-<!---
-VenkataSowjanyaKoka/VenkataSowjanyaKoka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ - 💻 Graduate Research Assistant - Texas State University
+ 
+ - 👀 Interested in Data Science
+ 
+ - 🌱 Learning about Deep Learning and Cloud Computing
+ 
+ - 🧐 Curious of Blockchain Technology and Artificial Intelligence
+  
+ 
+  
+#
+
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/venkata-sowjanya-koka/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:venkatasowjanyakoka@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/sowju.koka"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+
+
+</p>
+</p>
