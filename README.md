@@ -8,9 +8,9 @@ Having started coding at an early age and also having completed my Bachelor’s,
 
 I gravitate more towards Data Science and Data Analysis. My journey to higher education started with a goal to extend my knowledge related to data and its importance in driving a business towards success.
 
-As businesses today are becoming more inextricably linked with information technology, I strive to utilize my expertise to bridge the gap between technology and business.
-My key interest lies solely in learning and developing my skills in analyzing data using various emerging tools and techniques and sharing my technical expertise with people. 
-I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas. 
+I have always enjoyed solving puzzles. So that’s how I look at big data sets. Data is one big puzzle I want to solve. Finding patterns nobody else sees is a challenge to me.
+
+My key interest lies solely in learning and developing my skills in analyzing data using various emerging tools and techniques. I thoroughly enjoy tackling problems and coming up with novel ideas. 
 
 _I also believe in the ideology **"Future belongs to the ones who are not afraid to try it, explore it and question it"** which enables me to focus on not only continuous improvement, but also innovation._
 
