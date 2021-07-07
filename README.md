@@ -37,7 +37,6 @@ _I also believe in the ideology **"Future belongs to the ones who are not afraid
 <p align="center">
 <a href="https://www.linkedin.com/in/venkata-sowjanya-koka/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:venkatasowjanyakoka@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/sowju.koka"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
 
 
 </p>
